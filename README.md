@@ -1,1 +1,1 @@
-Currently incomplete as trainign adn test data files >25mb
+Currently incomplete as training and test data files >25mb
